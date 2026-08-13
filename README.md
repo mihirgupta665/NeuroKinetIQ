@@ -52,7 +52,13 @@ The actual real-time computer-vision application where webcam movement is analyz
 The following walkthrough demonstrates the complete NeuroKinetIQ experience — from entering the product to completing an AI-assisted workout session.
 
 <p align="center">
-  <img src="NeuroKinetIQVideoGIF.gif" alt="NeuroKinetIQ complete product walkthrough" width="900">
+  <a href="videos/NeuroKinetIQVideo.mp4" title="Open or download the full NeuroKinetIQ walkthrough video">
+    <img src="NeuroKinetIQVideoGIF.gif" alt="NeuroKinetIQ complete product walkthrough" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <a href="videos/NeuroKinetIQVideo.mp4">Click here to play or download the full walkthrough video</a>
 </p>
 
 ### The experience
