@@ -69,116 +69,77 @@ NeuroKinetIQ is designed around a simple principle:
 
 The following screens represent the complete product journey and the most important user-facing states.
 
-## 🔐 01 — Authentication
-
-<p align="center">
-  <img src="IMGs/1_Sign_up.png" alt="NeuroKinetIQ sign up and authentication" width="850">
-</p>
-
-Secure account creation and authentication provide the entry point into the personalized workout experience.
-
----
-
-## 🏠 02 — Home Dashboard
-
-<p align="center">
-  <img src="IMGs/2_Home_Page.png" alt="NeuroKinetIQ home dashboard" width="850">
-</p>
-
-The central dashboard provides access to workouts, progress, exercise information and historical performance.
-
----
-
-## 📊 03 — Exercises, Repetitions, Sets & History
-
-<p align="center">
-  <img src="IMGs/3_Exercise_Reps_Sets_History.png" alt="Exercise repetitions sets and workout history" width="850">
-</p>
-
-Workout information is organized into measurable metrics including exercises, repetitions, sets and historical activity.
-
----
-
-## ▶️ 04 — Start Progress
-
-<p align="center">
-  <img src="IMGs/4_Start_Progress.png" alt="Start NeuroKinetIQ workout progress" width="850">
-</p>
-
-Users configure and begin their workout before entering the real-time computer-vision experience.
-
----
-
-## 🧠 05 — Real-Time Pose Metrics
-
-<p align="center">
-  <img src="IMGs/5_Pose_Metrics_Updation.png" alt="NeuroKinetIQ real-time pose metrics" width="850">
-</p>
-
-This is the core of NeuroKinetIQ: body landmarks and movement metrics are continuously analyzed while the user performs an exercise.
-
----
-
-## 🏆 06 — Workout Complete
-
-<p align="center">
-  <img src="IMGs/6_Workout_Complete.png" alt="NeuroKinetIQ workout completion screen" width="850">
-</p>
-
-Once the target is reached, the session is finalized and workout metrics become part of the user's progress history.
-
----
-
-## 💬 07 — Workout History & Feedback
-
-<p align="center">
-  <img src="IMGs/7_Workout_History_Feedback.png" alt="NeuroKinetIQ workout history and feedback" width="850">
-</p>
-
-Historical sessions allow users to review completed workouts and the feedback associated with their training.
-
----
-
-## 🌐 08 — Landing Page
-
-<p align="center">
-  <img src="IMGs/8_Landing_Page.png" alt="NeuroKinetIQ landing page" width="850">
-</p>
-
-The Vercel-hosted landing experience introduces the product and communicates the complete AI fitness proposition.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 - Authentication</h3>
+      <img src="IMGs/1_Sign_up.png" alt="NeuroKinetIQ sign up and authentication" width="100%">
+      <p>Secure account creation and authentication provide the entry point into the personalized workout experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 - Home Dashboard</h3>
+      <img src="IMGs/2_Home_Page.png" alt="NeuroKinetIQ home dashboard" width="100%">
+      <p>The central dashboard provides access to workouts, progress, exercise information and historical performance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 - Exercises, Repetitions, Sets &amp; History</h3>
+      <img src="IMGs/3_Exercise_Reps_Sets_History.png" alt="Exercise repetitions sets and workout history" width="100%">
+      <p>Workout information is organized into measurable metrics including exercises, repetitions, sets and historical activity.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 - Start Progress</h3>
+      <img src="IMGs/4_Start_Progress.png" alt="Start NeuroKinetIQ workout progress" width="100%">
+      <p>Users configure and begin their workout before entering the real-time computer-vision experience.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 - Real-Time Pose Metrics</h3>
+      <img src="IMGs/5_Pose_Metrics_Updation.png" alt="NeuroKinetIQ real-time pose metrics" width="100%">
+      <p>This is the core of NeuroKinetIQ: body landmarks and movement metrics are continuously analyzed while the user performs an exercise.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 - Workout Complete</h3>
+      <img src="IMGs/6_Workout_Complete.png" alt="NeuroKinetIQ workout completion screen" width="100%">
+      <p>Once the target is reached, the session is finalized and workout metrics become part of the user's progress history.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>07 - Workout History &amp; Feedback</h3>
+      <img src="IMGs/7_Workout_History_Feedback.png" alt="NeuroKinetIQ workout history and feedback" width="100%">
+      <p>Historical sessions allow users to review completed workouts and the feedback associated with their training.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>08 - Landing Page</h3>
+      <img src="IMGs/8_Landing_Page.png" alt="NeuroKinetIQ landing page" width="100%">
+      <p>The Vercel-hosted landing experience introduces the product and communicates the complete AI fitness proposition.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>09 - Gallery Section</h3>
+      <img src="IMGs/9_Gallery_Section.png" alt="NeuroKinetIQ product gallery section" width="100%">
+      <p>The showcase experience provides a visual overview of the application.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>10 - Video Demo Section</h3>
+      <img src="IMGs/10_Video_Demo_Section.png" alt="NeuroKinetIQ video demonstration section" width="100%">
+      <p>The product experience also provides an interactive demonstration of the real-time coaching workflow.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>11 - Contact &amp; Connections</h3>
+      <img src="IMGs/11_Contact_Connections.png" alt="NeuroKinetIQ contact and connections section" width="70%">
+      <p>The final product section provides a direct connection point for users, collaborators and opportunities.</p>
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 🖼️ 09 — Gallery Section
-
-<p align="center">
-  <img src="IMGs/9_Gallery_Section.png" alt="NeuroKinetIQ product gallery section" width="850">
-</p>
-
-The showcase experience provides a visual overview of the application.
-
----
-
-## 🎥 10 — Video Demo Section
-
-<p align="center">
-  <img src="IMGs/10_Video_Demo_Section.png" alt="NeuroKinetIQ video demonstration section" width="850">
-</p>
-
-The product experience also provides an interactive demonstration of the real-time coaching workflow.
-
----
-
-## 🤝 11 — Contact & Connections
-
-<p align="center">
-  <img src="IMGs/11_Contact_Connections.png" alt="NeuroKinetIQ contact and connections section" width="850">
-</p>
-
-The final product section provides a direct connection point for users, collaborators and opportunities.
-
----
-
 # ✨ Core Features
 
 ## 🧍 Real-Time Pose Detection
@@ -1084,3 +1045,4 @@ See [`LICENSE`](LICENSE) for details.
 **See the movement. Understand the form. Improve the workout.**
 
 </p>
+
