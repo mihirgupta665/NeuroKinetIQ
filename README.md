@@ -4,9 +4,21 @@
 
 > **Your form. Analyzed. Corrected. In real time.**
 
+<p align="center">
+  <img src="herosection.png" alt="NeuroKinetIQ hero section preview" width="100%">
+</p>
+
+<p align="center">
+  <strong>AI-powered fitness coaching from first impression to real-time workout analysis.</strong>
+</p>
+
 NeuroKinetIQ is a real-time AI fitness coaching platform that transforms an ordinary webcam into an intelligent workout assistant. Using **computer vision, pose estimation, geometric movement analysis, AI-generated feedback, and voice synthesis**, NeuroKinetIQ can understand exercise movements, count repetitions, evaluate posture, provide corrective coaching, and maintain workout history.
 
 The project combines a polished **Vercel-hosted product experience** with a dedicated **Streamlit-based real-time AI engine**, creating a complete journey from product discovery and authentication to live exercise analysis and workout analytics.
+
+<p align="center">
+  Landing experience, sign-up flow, dashboard, pose tracking, workout intelligence, and AI feedback in one unified product journey.
+</p>
 
 <p align="center">
 
