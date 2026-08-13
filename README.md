@@ -1028,11 +1028,11 @@ It becomes the interface between the user and an AI coach.
 
 A complete walkthrough is available in the repository through:
 
-**`NeuroKinetIQVideo.mp4`**
+**[Play or download the full walkthrough video](videos/NeuroKinetIQVideo.mp4)**
 
 The README also includes the optimized animated walkthrough:
 
-**`NeuroKinetIQVideoGIF.gif`**
+**[Open the animated GIF walkthrough](NeuroKinetIQVideoGIF.gif)**
 
 ---
 
