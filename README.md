@@ -9,7 +9,7 @@
 A premium, high-fidelity responsive showcase landing page for **NeuroKinetIQ**, a state-of-the-art, computer vision-based real-time AI Gym Trainer. The application analyzes user skeletal landmarks, tracks exercise form parameters in real-time, counts repetitions, and provides auditory and visual correction feedback with sub-100ms latency.
 
 🎥 **Live Application Demo**: [neurokinetiq-ai-realtime-gym-coach.streamlit.app](https://neurokinetiq-ai-realtime-gym-coach.streamlit.app/)  
-🔗 **Showcase Webpage**: [Launch Local Web Server](#how-to-run-locally)
+🔗 **Showcase Webpage**: [neurokinetiq-landing-dashboard.vercel.app](https://neurokinetiq-landing-dashboard.vercel.app/)
 
 ---
 
@@ -85,6 +85,13 @@ If you prefer Node.js and want hot-reloading:
 # Start a live development server immediately
 npx live-server
 ```
+
+---
+
+### Option C: Production Deployment (Vercel)
+This website is production-ready and optimized for deployment on **Vercel** with security and cache control rules defined in [vercel.json](file:///c:/Users/mihir/Desktop/LandingPage/vercel.json). 
+
+Any push to the `master` branch of your connected GitHub repository will trigger an automatic production build and deployment.
 
 ---
 
