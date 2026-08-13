@@ -72,7 +72,7 @@ The following screens represent the complete product journey and the most import
 ## 🔐 01 — Authentication
 
 <p align="center">
-  <img src="IMGS/1_Sign_up.png" alt="NeuroKinetIQ sign up and authentication" width="850">
+  <img src="IMGs/1_Sign_up.png" alt="NeuroKinetIQ sign up and authentication" width="850">
 </p>
 
 Secure account creation and authentication provide the entry point into the personalized workout experience.
@@ -82,7 +82,7 @@ Secure account creation and authentication provide the entry point into the pers
 ## 🏠 02 — Home Dashboard
 
 <p align="center">
-  <img src="IMGS/2_Home_Page.png" alt="NeuroKinetIQ home dashboard" width="850">
+  <img src="IMGs/2_Home_Page.png" alt="NeuroKinetIQ home dashboard" width="850">
 </p>
 
 The central dashboard provides access to workouts, progress, exercise information and historical performance.
@@ -92,7 +92,7 @@ The central dashboard provides access to workouts, progress, exercise informatio
 ## 📊 03 — Exercises, Repetitions, Sets & History
 
 <p align="center">
-  <img src="IMGS/3_Exercise_Reps_Sets_History.png" alt="Exercise repetitions sets and workout history" width="850">
+  <img src="IMGs/3_Exercise_Reps_Sets_History.png" alt="Exercise repetitions sets and workout history" width="850">
 </p>
 
 Workout information is organized into measurable metrics including exercises, repetitions, sets and historical activity.
@@ -102,7 +102,7 @@ Workout information is organized into measurable metrics including exercises, re
 ## ▶️ 04 — Start Progress
 
 <p align="center">
-  <img src="IMGS/4_Start_Progress.png" alt="Start NeuroKinetIQ workout progress" width="850">
+  <img src="IMGs/4_Start_Progress.png" alt="Start NeuroKinetIQ workout progress" width="850">
 </p>
 
 Users configure and begin their workout before entering the real-time computer-vision experience.
@@ -112,7 +112,7 @@ Users configure and begin their workout before entering the real-time computer-v
 ## 🧠 05 — Real-Time Pose Metrics
 
 <p align="center">
-  <img src="IMGS/5_Pose_Metrics_Updation.png" alt="NeuroKinetIQ real-time pose metrics" width="850">
+  <img src="IMGs/5_Pose_Metrics_Updation.png" alt="NeuroKinetIQ real-time pose metrics" width="850">
 </p>
 
 This is the core of NeuroKinetIQ: body landmarks and movement metrics are continuously analyzed while the user performs an exercise.
@@ -122,7 +122,7 @@ This is the core of NeuroKinetIQ: body landmarks and movement metrics are contin
 ## 🏆 06 — Workout Complete
 
 <p align="center">
-  <img src="IMGS/6_Workout_Complete.png" alt="NeuroKinetIQ workout completion screen" width="850">
+  <img src="IMGs/6_Workout_Complete.png" alt="NeuroKinetIQ workout completion screen" width="850">
 </p>
 
 Once the target is reached, the session is finalized and workout metrics become part of the user's progress history.
@@ -132,7 +132,7 @@ Once the target is reached, the session is finalized and workout metrics become 
 ## 💬 07 — Workout History & Feedback
 
 <p align="center">
-  <img src="IMGS/7_Workout_History_Feedback.png" alt="NeuroKinetIQ workout history and feedback" width="850">
+  <img src="IMGs/7_Workout_History_Feedback.png" alt="NeuroKinetIQ workout history and feedback" width="850">
 </p>
 
 Historical sessions allow users to review completed workouts and the feedback associated with their training.
@@ -142,7 +142,7 @@ Historical sessions allow users to review completed workouts and the feedback as
 ## 🌐 08 — Landing Page
 
 <p align="center">
-  <img src="IMGS/8_Landing_Page.png" alt="NeuroKinetIQ landing page" width="850">
+  <img src="IMGs/8_Landing_Page.png" alt="NeuroKinetIQ landing page" width="850">
 </p>
 
 The Vercel-hosted landing experience introduces the product and communicates the complete AI fitness proposition.
@@ -152,7 +152,7 @@ The Vercel-hosted landing experience introduces the product and communicates the
 ## 🖼️ 09 — Gallery Section
 
 <p align="center">
-  <img src="IMGS/9_Gallery_Section.png" alt="NeuroKinetIQ product gallery section" width="850">
+  <img src="IMGs/9_Gallery_Section.png" alt="NeuroKinetIQ product gallery section" width="850">
 </p>
 
 The showcase experience provides a visual overview of the application.
@@ -162,7 +162,7 @@ The showcase experience provides a visual overview of the application.
 ## 🎥 10 — Video Demo Section
 
 <p align="center">
-  <img src="IMGS/10_Video_Demo_Section.png" alt="NeuroKinetIQ video demonstration section" width="850">
+  <img src="IMGs/10_Video_Demo_Section.png" alt="NeuroKinetIQ video demonstration section" width="850">
 </p>
 
 The product experience also provides an interactive demonstration of the real-time coaching workflow.
@@ -172,7 +172,7 @@ The product experience also provides an interactive demonstration of the real-ti
 ## 🤝 11 — Contact & Connections
 
 <p align="center">
-  <img src="IMGS/11_Contact_Connections.png" alt="NeuroKinetIQ contact and connections section" width="850">
+  <img src="IMGs/11_Contact_Connections.png" alt="NeuroKinetIQ contact and connections section" width="850">
 </p>
 
 The final product section provides a direct connection point for users, collaborators and opportunities.
